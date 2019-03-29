@@ -1,10 +1,4 @@
-/**
-* Auteur: Stijn Boutsen
-*
-* Beschrijving: Dit programma laat de led matrix knipperen op het PXL uCbord.
-*
-*/
-//Definiëren van de uitganspinnen
+
 const int shiftClockPin = 4;  //SH
 const int latchClockPin = 5;  //ST
 const int serialInputPin = 6; //DS
